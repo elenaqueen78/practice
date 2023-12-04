@@ -1,0 +1,29 @@
+{
+  "alumnos": [
+    {
+      "id": 1,
+      "nombre": "Juan Pérez",
+      "nota": 85
+    },
+    {
+      "id": 2,
+      "nombre": "María González",
+      "nota": 92
+    },
+    {
+      "id": 3,
+      "nombre": "Carlos Rodríguez",
+      "nota": 78
+    },
+    {
+      "id": 4,
+      "nombre": "Ana García",
+      "nota": 95
+    },
+    {
+      "id": 5,
+      "nombre": "Luis Martínez",
+      "nota": 88
+    }
+  ]
+}
